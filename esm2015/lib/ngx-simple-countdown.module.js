@@ -1,0 +1,14 @@
+import { __decorate } from "tslib";
+import { NgModule } from "@angular/core";
+import { NgxSimpleCountdownDirective } from "./ngx-simple-countdown.directive";
+let NgxSimpleCountdownModule = class NgxSimpleCountdownModule {
+};
+NgxSimpleCountdownModule = __decorate([
+    NgModule({
+        declarations: [NgxSimpleCountdownDirective],
+        imports: [],
+        exports: [NgxSimpleCountdownDirective]
+    })
+], NgxSimpleCountdownModule);
+export { NgxSimpleCountdownModule };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibmd4LXNpbXBsZS1jb3VudGRvd24ubW9kdWxlLmpzIiwic291cmNlUm9vdCI6Im5nOi8vbmd4LXNpbXBsZS1jb3VudGRvd24vIiwic291cmNlcyI6WyJsaWIvbmd4LXNpbXBsZS1jb3VudGRvd24ubW9kdWxlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFBQSxPQUFPLEVBQUUsUUFBUSxFQUFFLE1BQU0sZUFBZSxDQUFDO0FBQ3pDLE9BQU8sRUFBRSwyQkFBMkIsRUFBRSxNQUFNLGtDQUFrQyxDQUFDO0FBTy9FLElBQWEsd0JBQXdCLEdBQXJDLE1BQWEsd0JBQXdCO0NBQUcsQ0FBQTtBQUEzQix3QkFBd0I7SUFMcEMsUUFBUSxDQUFDO1FBQ1IsWUFBWSxFQUFFLENBQUMsMkJBQTJCLENBQUM7UUFDM0MsT0FBTyxFQUFFLEVBQUU7UUFDWCxPQUFPLEVBQUUsQ0FBQywyQkFBMkIsQ0FBQztLQUN2QyxDQUFDO0dBQ1csd0JBQXdCLENBQUc7U0FBM0Isd0JBQXdCIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tIFwiQGFuZ3VsYXIvY29yZVwiO1xuaW1wb3J0IHsgTmd4U2ltcGxlQ291bnRkb3duRGlyZWN0aXZlIH0gZnJvbSBcIi4vbmd4LXNpbXBsZS1jb3VudGRvd24uZGlyZWN0aXZlXCI7XG5cbkBOZ01vZHVsZSh7XG4gIGRlY2xhcmF0aW9uczogW05neFNpbXBsZUNvdW50ZG93bkRpcmVjdGl2ZV0sXG4gIGltcG9ydHM6IFtdLFxuICBleHBvcnRzOiBbTmd4U2ltcGxlQ291bnRkb3duRGlyZWN0aXZlXVxufSlcbmV4cG9ydCBjbGFzcyBOZ3hTaW1wbGVDb3VudGRvd25Nb2R1bGUge31cbiJdfQ==

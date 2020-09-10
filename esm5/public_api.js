@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of ngx-simple-countdown
+ */
+export * from './lib/ngx-simple-countdown.module';
+export * from './lib/ngx-simple-countdown.directive';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25neC1zaW1wbGUtY291bnRkb3duLyIsInNvdXJjZXMiOlsicHVibGljX2FwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsbUNBQW1DLENBQUM7QUFDbEQsY0FBYyxzQ0FBc0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2Ygbmd4LXNpbXBsZS1jb3VudGRvd25cbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9uZ3gtc2ltcGxlLWNvdW50ZG93bi5tb2R1bGUnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbmd4LXNpbXBsZS1jb3VudGRvd24uZGlyZWN0aXZlJztcbiJdfQ==
